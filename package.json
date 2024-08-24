@@ -1,5 +1,5 @@
 {
-  "name": "xorizn-downloads",
+  "name": "shaon-downloads",
   "version": "0.1.0",
   "description": "For my apis",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Xorizn/xorizn-downloads.git"
+    "url": "git+https://github.com/shaonproject/shaon-downloads.git"
   },
   "keywords": [
     "simple",
@@ -17,10 +17,10 @@
     "rest",
     "api"
   ],
-  "author": "Xorizn",
+  "author": "Shaon",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Xorizn/xorizn-downloads/issues"
+    "url": "https://github.com/shaonproject/shaon-downloads/issues"
   },
   "dependencies": {
     "@bochilteam/scraper": "^4.0.22-alpha.0",
@@ -39,5 +39,5 @@
     "ssl-express-www": "^3.2.1",
     "moment-timezone": "^0.5.43"
   },
-  "homepage": "https://github.com/Xorizn/xorizn-downloads#readme"
+  "homepage": "https://github.com/shaonproject/shaon-downloads#readme"
 }
