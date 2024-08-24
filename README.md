@@ -9,7 +9,7 @@
 
 ## Other Scraper
 
-- [SEARCH-API](https://github.com/shaonproject/xorizn-search)
+- [SEARCH-API](https://github.com/shaonproject/shaon-search)
 - [ALL-API](https://github.com/shaonproject/shaon-apis)
 
 ## List Routes Download Api's
