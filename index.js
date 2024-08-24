@@ -17,7 +17,7 @@ app.use(express.static("lib"))
 app.use('/', mainrouter)
 app.use('/api', apirouter)
 app.use(function (req, res, next) {
-  res.redirect('https://github.com/Xorizn/xorizn-downloads#readme')
+  res.redirect('https://github.com/shaonproject/shaon-downloads#readme')
 });
 
 app.listen(PORT, () => {
